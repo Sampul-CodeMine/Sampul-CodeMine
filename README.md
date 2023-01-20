@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center">🔭 I’m currently studying Software Engineering at **ALX SOFTWARE ENGINEERING PROGRAM**</p>
+<p align="center">🔭 I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAM</b></p>
 
 <p align="center"><img align="center" alt="Coding" width="600" height="300" src="https://media.giphy.com/media/4dzsjvGbtXwoo/giphy.gif" /></p>
 <hr>
