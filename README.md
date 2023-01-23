@@ -27,23 +27,12 @@
 
 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1optUs9WwEivu83hGwhKITeh9NOlkHJqQ/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
-<hr>
-
-⚡ Fun fact **I choose to echo out my mind if the console fails to work.**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Sampul_CodeMine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sampul-CodeMine" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14075841/sampul-codemine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sampul-codemine" height="30" width="40" /></a>
-<a href="https://fb.com/sampulcodemine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sampul-CodeMine" height="30" width="40" /></a>
-<a href="https://instagram.com/sampulcodemine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sampul-CodeMine" height="30" width="40" /></a>
-<a href="https://youtube.com/@sampulcodemine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sampul-CodeMine" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Blog Posts:</h3>
-
+<p align="left"> <a href="https://www.behance.com/dukesonehigboria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/sampul-codemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sampulcodemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sampul-CodeMine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sampulcodemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14075841/sampul-codemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sampul_CodeMine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="[https://www.youtube.com/c/@sampulcodemine](https://youtube.com/@sampulcodemine)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -68,9 +57,18 @@
   </a>
   </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidinmichael&show_icons=true&locale=en&layout=compact" alt="davidinmichael" /></p>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidinmichael&show_icons=true&locale=en" alt="davidinmichael" /></p>
+<b>My GitHub Stats</b>
+<p>
+<a href="http://www.github.com/Sampul-CodeMine"><img src="https://github-readme-stats.vercel.app/api?username=Sampul-CodeMine&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sampul-CodeMine's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidinmichael&" alt="davidinmichael" /></p> -->
+<a href="http://www.github.com/Sampul-CodeMine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampul-CodeMine&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+<p>
+<a href="https://github.com/Sampul-CodeMine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampul-CodeMine&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+<hr>
+
+⚡ Fun fact **I choose to echo out my mind if the console fails to work.**
