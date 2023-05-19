@@ -25,7 +25,7 @@
 
 📫 How to reach me: **dukesonehigboria@gmail.com**
 
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1optUs9WwEivu83hGwhKITeh9NOlkHJqQ/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
 <h3 align="left">Connect with me:</h3>
 
