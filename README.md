@@ -6,7 +6,7 @@
 
 <p align="center">🔭 I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAM</b></p>
 
-<p align="center"><img align="center" alt="Coding" width="700" height="300" src="https://drive.google.com/file/d/1rmDQ2a37KtfKEq9pGBkrT6_8dfqrkq9N/view?usp=sharing"></p>
+<p align="center"><img align="center" alt="Coding" width="700" height="300" src="https://github.com/Sampul-CodeMine/Sampul-CodeMine/assets/93384140/a9f46ed0-16b5-49a9-934a-eb17aeef9f28"></p>
 <hr>
 
 **Learning**
