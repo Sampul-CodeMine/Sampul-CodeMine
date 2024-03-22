@@ -27,21 +27,24 @@
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
 <p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=12&icon=0&pretty=true" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=6&icon=0&pretty=true" /></a>
 </p>
 
 <hr>
 
 #### Get Inspired with Random Quotes from formidable minds:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <hr>
 
 ## Things I love to do:
+
 - 👯 Collaborate with **Great Minds and other Software Engineers**
 - 💬 Ask me about **HTML, CSS, C, PHP, MySQL, Linux, Javascript, TypeScript, and Python** and I sure, will be ready to assist the best way I can
 
 ## Reach Out:
+
 - 📫 You can readh out to me via email: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
 
 <hr>
