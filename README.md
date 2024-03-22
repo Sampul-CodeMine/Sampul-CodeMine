@@ -19,30 +19,34 @@
 
 <hr>
 
-# 💫 About Me
+## 💫 About Me
 
 - ✨ I am currently learning **C Programming Language**
-- ✨ I’m currently learning **Bash/Shell Scripting**
-- ✨ I’m currently learning **Linux and Git**
-- ✨ I’m currently learning **HTML/CSS/Javascript**
-- ✨ I’m currently learning **PHP Scripting Language**
-- ✨ I’m currently learning **Python Programming Language**
+- ✨ I am currently learning **Bash/Shell Scripting**
+- ✨ I am currently learning **Linux and Git**
+- ✨ I am currently learning **HTML/CSS/Javascript**
+- ✨ I am currently learning **PHP Scripting Language**
+- ✨ I am currently learning **Python Programming Language**
+- 💻 I am currently learning to become a **Full Stack Software Developer**
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
 <hr>
 
-## I would love to:
-- 👯 I’m looking to collaborate with **Great Minds and other Software Engineers**
-
-## Ask me:
-- 💬 Ask me about **HTML, CSS, C, PHP, MySQL, Linux, Javascript, TypeScript, and Python**
-
-## Reach Out:
-- 📫 How to reach me: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
+### Get Inspired with Random Quotes from formidable minds:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+## Things I love to do:
+- 👯 Collaborate with **Great Minds and other Software Engineers**
+- 💬 Ask me about **HTML, CSS, C, PHP, MySQL, Linux, Javascript, TypeScript, and Python** and I sure, will be ready to assist the best way I can
+
+## Reach Out:
+- 📫 You can readh out to me via email: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
+
+<hr>
+
+## 🌐 My Socials:
 
 <p align="left"> <a href="https://www.behance.com/dukesonehigboria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/sampul-codemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sampulcodemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sampul-CodeMine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sampulcodemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14075841/sampul-codemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sampul_CodeMine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@sampulcodemine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
