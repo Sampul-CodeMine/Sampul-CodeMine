@@ -87,7 +87,7 @@
 	
 </p>
 
-
+<hr>
 
 ## 💻 Tech Stack (Languages & Tools):
 
@@ -114,6 +114,8 @@
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> 
   </a>
   </p>
+
+<hr>
 
 ### Badges
 
