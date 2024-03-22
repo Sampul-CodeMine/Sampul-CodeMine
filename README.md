@@ -110,7 +110,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> 
