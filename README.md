@@ -1,13 +1,16 @@
 <!-- **Sampul-CodeMine/Sampul-CodeMine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I am Dukeson Ehigboria O.</h1>
-<h3 align="center">A self-inspired and passionate Full-Stack SOFTWARE ENGINEER from Nigeria</h3>
+<h3 align="center">A self-inspired and passionate Full-Stack Software Developer from Nigeria</h3>
 <hr>
-<p align="center">🔭 I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAM</b></p>
+<p align="center">
+  I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAMME, Africa.</b>
+</p>
 
 <p align="center">
   <img align="center" alt="Coding" width="700" height="300" src="https://github.com/Sampul-CodeMine/Sampul-CodeMine/assets/93384140/a9f46ed0-16b5-49a9-934a-eb17aeef9f28">
 </p>
+
 <p align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=12&icon=0&pretty=true" />
@@ -16,23 +19,28 @@
 
 <hr>
 
-**Learning**
-- 🌱 I’m currently learning **C Programming Language**
-- 🌱 I’m currently learning **Bash/Shell Scripting**
-- 🌱 I’m currently learning **Linux and Git**
-- 🌱 I’m currently learning **HTML/CSS/Javascript**
-- 🌱 I’m currently learning **PHP Scripting Language**
-- 🌱 I’m currently learning **Python Programming Language**
+# 💫 About Me
+
+- ✨ I am currently learning **C Programming Language**
+- ✨ I’m currently learning **Bash/Shell Scripting**
+- ✨ I’m currently learning **Linux and Git**
+- ✨ I’m currently learning **HTML/CSS/Javascript**
+- ✨ I’m currently learning **PHP Scripting Language**
+- ✨ I’m currently learning **Python Programming Language**
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
 <hr>
 
-👯 I’m looking to collaborate with **Great Minds and other Software Engineers**
+## I would love to:
+- 👯 I’m looking to collaborate with **Great Minds and other Software Engineers**
 
-💬 Ask me about **HTML, CSS, C, PHP, VI, Linux, Javascript, and Python**
+## Ask me:
+- 💬 Ask me about **HTML, CSS, C, PHP, MySQL, Linux, Javascript, TypeScript, and Python**
 
-📫 How to reach me: **dukesonehigboria@gmail.com**
+## Reach Out:
+- 📫 How to reach me: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
 
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
