@@ -110,18 +110,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> &nbsp;
+<a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a>
 </p>
 
 <hr>
 
-### Badges
+### My GitHub Stats & Badges
 
-<b>My GitHub Stats</b>
 <p>
 <a href="http://www.github.com/Sampul-CodeMine"><img src="https://github-readme-stats.vercel.app/api?username=Sampul-CodeMine&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sampul-CodeMine's GitHub stats" /></a>
 
@@ -134,3 +136,5 @@
 <hr>
 
 ⚡ Fun fact **I choose to echo out my mind if the console fails to work.**
+
+---
