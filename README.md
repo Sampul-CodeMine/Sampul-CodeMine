@@ -5,11 +5,14 @@
 <hr>
 <p align="center">🔭 I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAM</b></p>
 
-<p align="center"><img align="center" alt="Coding" width="700" height="300" src="https://github.com/Sampul-CodeMine/Sampul-CodeMine/assets/93384140/a9f46ed0-16b5-49a9-934a-eb17aeef9f28"></p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=12&icon=0&pretty=true" />
-</a>
+<p align="center">
+  <img align="center" alt="Coding" width="700" height="300" src="https://github.com/Sampul-CodeMine/Sampul-CodeMine/assets/93384140/a9f46ed0-16b5-49a9-934a-eb17aeef9f28">
+</p>
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
+</p>
 
 <hr>
 
