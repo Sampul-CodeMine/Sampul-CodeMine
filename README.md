@@ -1,12 +1,12 @@
 <!-- **Sampul-CodeMine/Sampul-CodeMine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h2 align="center">Hi 👋, I am Dukeson Ehigboria O.</h2>
-<h5 align="center">Aspiring to be a formidable SOFTWARE ENGINEER</h5>
 
+<h1 align="center">Hi 👋, I am Dukeson Ehigboria O.</h1>
+<h3 align="center">A self-inspired and passionate Full-Stack SOFTWARE ENGINEER from Nigeria</h3>
 <hr>
-
 <p align="center">🔭 I’m currently studying Software Engineering at <b>ALX SOFTWARE ENGINEERING PROGRAM</b></p>
 
 <p align="center"><img align="center" alt="Coding" width="700" height="300" src="https://github.com/Sampul-CodeMine/Sampul-CodeMine/assets/93384140/a9f46ed0-16b5-49a9-934a-eb17aeef9f28"></p>
+[![](https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <hr>
 
 **Learning**
