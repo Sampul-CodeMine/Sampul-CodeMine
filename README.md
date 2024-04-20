@@ -45,7 +45,7 @@
 
 ## Reach Out:
 
-- 📫 You can readh out to me via email: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
+- 📫 You can reach out to me via email: <a href="mailto:dukesonehigboria@gmail.com">**dukesonehigboria@gmail.com**</a>
 
 <hr>
 
