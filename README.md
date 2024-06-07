@@ -84,7 +84,7 @@
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 	</a>
 	&nbsp;
-	<a href="https://www.twitter.com/Sampul_CodeMine" target="_blank" rel="noreferrer">
+	<a href="https://www.twitter.com/s_codemine" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 	</a> 
 	
